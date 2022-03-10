@@ -168,3 +168,4 @@ const loadPosts = async () => {
 }
 
 loadPosts();
+
